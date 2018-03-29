@@ -1,0 +1,103 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Iron Maiden",
+      "genre": "Heavy Metal",
+      "year": 1975,
+      "img": "https://img.discogs.com/bA4AS3nPMARIPCCjm4emsrBp_xk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-251595-1466251370-2674.jpeg.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Metallica",
+      "genre": "Heavy Metal",
+      "year": 1981,
+      "img": "https://pbs.twimg.com/profile_images/766360293953802240/kt0hiSmv.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Deep Purple",
+      "genre": "Hard Rock",
+      "year": 1968,
+      "img": "http://www.loucospormusica.com/images/mouse-pad-banda-rock-barato-deep-purple-3845-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Anathema",
+      "genre": "Alternative Rock",
+      "year": 1990,
+      "img": "http://cps-static.rovicorp.com/3/JPG_400/MI0004/044/MI0004044463.jpg?partner=allrovi.com"
+    },
+    {
+      "id": 5,
+      "name": "Aerosmith",
+      "genre": "Hard Rock",
+      "year": 1970,
+      "img": "https://stat.ameba.jp/user_images/20111209/05/bbmc/87/a1/j/o0250014011660647542.jpg?caw=800"
+    },
+    {
+      "id": 6,
+      "name": "Radiohead",
+      "genre": "Hard Rock",
+      "year": 1985,
+      "img": "http://www.eventim.co.uk/obj/media/UK-eventim/galery/222x222/r/radiohead-2016-tickets.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Green Day",
+      "genre": "Hard Rock",
+      "year": 1986,
+      "img": "http://nigiwasu.com/wp-content/uploads/2016/06/worldversus.com_-300x234.jpg"
+    },
+    {
+      "id": 8,
+      "name": "U2",
+      "genre": "Rock",
+      "year": 1986,
+      "img": "http://cdn-images.deezer.com/images/artist/edc3ee765289d41a98fde2fafa78f0fa/200x200-000000-80-0-0.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rage Against the Machine",
+      "genre": "Hard Rock",
+      "year": 1991,
+      "img": "https://s-media-cache-ak0.pinimg.com/736x/80/2d/1a/802d1ab1c26d74b217feaec7f8148166.jpg"
+
+    },
+    {
+      "id": 10,
+      "name": "Pantera",
+      "genre": "Metal",
+      "year": 1981,
+      "img": "http://slipkorn247.tripod.com/sitebuildercontent/sitebuilderpictures/pantara.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Slayer",
+      "genre": "Metal",
+      "year": 1981,
+      "img": "https://www.metal-archives.com/images/7/2/72_logo.png?1348"
+    },
+    {
+      "id": 12,
+      "name": "Judas Priest",
+      "genre": "Metal",
+      "year": 1969,
+      "img": "http://2.bp.blogspot.com/-bwSZi8BApyM/U6GdmRgdnJI/AAAAAAAAAFo/IbdcwG-2jRo/s1600/images+%25281%2529.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Megadeth",
+      "genre": "Metal",
+      "year": 1983,
+      "img": "http://cps-static.rovicorp.com/3/JPG_500/MI0002/495/MI0002495998.jpg?partner=allrovi.com"
+    },
+    {
+      "id": 14,
+      "name": "Iced Earth",
+      "genre": "Heavy Metal",
+      "year": 1985,
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b6/Iced_Earth_Album_Remastered.jpg"
+    }
+  ]
+}
