@@ -1,6 +1,6 @@
 # React Spotify App
 
-We will create a music app to search for artists and we add some of them in a favorite list.
+A simple React list.
 
 ## Specs
 
