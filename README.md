@@ -3,8 +3,7 @@
 A React search app which fetches artists from a json file and displays them as a list. 
 
 ### Prerequisites
-* [Node.js](https://nodejs.org/en/)
-* [Json-Server](https://github.com/typicode/json-server)
+[Json-Server](https://github.com/typicode/json-server)
 
 ### Installing
 ```
