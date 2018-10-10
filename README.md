@@ -1,5 +1,7 @@
 # React Spotify App
 
+![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
+
 A React search app which fetches artists from a json file and displays them as a list. 
 
 ### Prerequisites
