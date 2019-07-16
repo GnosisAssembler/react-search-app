@@ -1,19 +1,17 @@
-# React Spotify App
+# react-search-app
 
-![status in_progress](https://img.shields.io/badge/status-in_progress-brightgreen.svg)
+![code sample](https://img.shields.io/badge/code-sample-yellowgreen.svg?style=flat-square)
 
-A React search app which fetches artists from a json file and displays them as a list. 
+> A React search app which fetches artists from a json file and displays them as a list. 
 
 ### Prerequisites
 [Json-Server](https://github.com/typicode/json-server)
 
 ### Installing
-```
-# Go to your project directory
-cd my-app
-
+```sh
 # Clone the repository
-git clone https://github.com/pankaryp/Spotify-app.git
+git clone https://github.com/pankaryp/react-search-app.git
+cd react-search-app
 
 # Install app dependencies
 npm install
